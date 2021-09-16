@@ -1,0 +1,82 @@
+@charset "utf-8";
+/* CSS Document */
+
+#cuerpo #noticia2 {
+	float: left;
+	width: 46%;
+	margin-top: 15px;
+	margin-right: 2%;
+	margin-left: 2%;
+}
+#cuerpo #noticia1 {
+	float: right;
+	width: 46%;
+	margin-top: 15px;
+	margin-right: 2%;
+	margin-left: 2%;
+}
+#cuerpo #noticia3 {
+	float: left;
+	width: 96%;
+	margin-top: 15px;
+	margin-right: 2%;
+	margin-left: 2%;
+}
+#cuerpo #noticia5 {
+	float: left;
+	width: 46%;
+	margin-top: 15px;
+	margin-right: 2%;
+	margin-left: 2%;
+}
+#cuerpo #noticia4 {
+	float: right;
+	width: 46%;
+	margin-top: 15px;
+	margin-right: 2%;
+	margin-left: 2%;
+}
+#cuerpo #noticia6 {
+	float: left;
+	width: 96%;
+	margin-top: 15px;
+	margin-right: 2%;
+	margin-left: 2%;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 30px;
+}
+#cuerpo #noticia1 p img {
+	float: left;
+	width: 40%;
+	margin-right: 5%;
+	margin-bottom: 10px;
+}
+#cuerpo #noticia2 p img {
+	float: left;
+	width: 40%;
+	margin-right: 5%;
+	margin-bottom: 10px;
+}
+#cuerpo #noticia3 p img {
+	float: left;
+	width: 35%;
+}
+#cuerpo #noticia4 p img {
+	float: left;
+	width: 40%;
+	margin-right: 5%;
+	margin-bottom: 10px;
+}
+#cuerpo #noticia5 p img {
+	float: left;
+	width: 30%;
+	margin-right: 5%;
+	margin-bottom: 10px;
+}
+#cuerpo #noticia6 p img {
+	float: left;
+	width: 40%;
+	margin-right: 40%;
+	margin-bottom: 10px;
+	margin-left: 35%;
+}

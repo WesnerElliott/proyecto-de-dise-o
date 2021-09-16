@@ -1,0 +1,209 @@
+@charset "utf-8";
+@import url("../webfonts/Lobster_Regular/stylesheet.css");
+@import url("../webfonts/Sacramento_Regular/stylesheet.css");
+
+
+/* CSS Document */
+
+#cuerpo {
+	width: 90%;
+	margin-right: auto;
+	margin-left: auto;
+}
+#cuerpo #encabezado {
+	float: none;
+}
+#cuerpo #encabezado #logo {
+	float: none;
+}
+#cuerpo #encabezado {
+	float: left;
+	width: 100%;
+}
+#cuerpo #encabezado #logo {
+	background-color: #FFF;
+	float: left;
+	width: 20%;
+}
+#cuerpo #encabezado #redesycontacto #contacto img {
+	float: left;
+	width: 100%;
+}
+#cuerpo #encabezado #logo img {
+}
+
+
+#cuerpo #encabezado #logo img {
+	float: left;
+	width: 100%;
+}
+
+#cuerpo #encabezado #nombre {
+	float: left;
+	width: 60%;
+}
+#cuerpo #encabezado #redesycontacto {
+	background-color: #FFF;
+	float: right;
+	width: 30%;
+}
+#cuerpo #encabezado #redesycontacto #redes {
+	background-color: #FFF;
+	width: 100%;
+	float: left;
+}
+#cuerpo #encabezado #redesycontacto #redes #facebook {
+	float: left;
+	width: 25%;
+}
+#cuerpo #encabezado #redesycontacto #redes #facebook div #twitter {
+	float: left;
+	width: 25%;
+}
+#cuerpo #encabezado #redesycontacto #redes #facebook div #twitter div #instagram {
+	float: left;
+	width: 25%;
+}
+#cuerpo #encabezado #redesycontacto #redes #youtube #gmail {
+	float: left;
+	width: 25%;
+}
+#cuerpo #encabezado #redesycontacto #redes #youtube {
+	float: left;
+	width: 25%;
+}
+#cuerpo #encabezado #redesycontacto #redes #fb {
+	float: left;
+	width: 25%;
+}
+#cuerpo #encabezado #redesycontacto #redes #gmail {
+	float: left;
+	width: 25%;
+}
+#cuerpo #encabezado #redesycontacto #redes #twitter {
+	float: left;
+	width: 25%;
+}
+#cuerpo #encabezado #redesycontacto #redes #YT {
+	float: left;
+	width: 25%;
+}
+#cuerpo #encabezado #redesycontacto #redes #fb img {
+	float: left;
+	width: 100%;
+}
+#cuerpo #encabezado #redesycontacto #redes #gmail img {
+	float: left;
+	width: 100%;
+}
+#cuerpo #encabezado #redesycontacto #redes #twitter img {
+	float: left;
+	width: 100%;
+}
+#cuerpo #encabezado #redesycontacto #redes #YT img {
+	float: left;
+	width: 100%;
+}
+#cuerpo #encabezado #nombre img {
+	float: left;
+	width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#cuerpo #encabezado #redesycontacto #contacto {
+	float: left;
+	width: 100%;
+}
+#cuerpo #imagenesenmovimiento {
+	background-color: #F00;
+	float: left;
+	width: 100%;
+}
+#cuerpo #menu {
+	background-color: #FFF;
+	float: left;
+	width: 100%;
+}
+#cuerpo #contenidogeneral {
+	float: left;
+	width: 100%;
+}
+#cuerpo #contenidogeneral #contenido {
+	float: left;
+	width: 70%;
+}
+#cuerpo #contenidogeneral #anuncios {
+	float: right;
+	width: 30%;
+}
+#cuerpo #solapa {
+	float: left;
+	width: 100%;
+}
+#cuerpo #piedepagina {
+	float: left;
+	width: 100%;
+	background-color: #FFF;
+}
+#contenidogeneral #formulario img {
+}
+
+.textos1 {
+	font-family: "Lobster Regular", sans-serif, monospace;
+	font-size: 16px;
+	color: #000;
+	text-align:justify
+
+.titulos1 {
+	font-family: "Sacramento Regular", cursive, Roman;
+	font-size: 36px;
+	color: #000;
+}
+.titulos1 {
+	font-family: "Sacramento Regular", cursive, Roman;
+	font-size: 36px;
+	color: #000;
+}
+#cuerpo #solapa #piedepagina img {
+	float: left;
+	width: 100%;
+}
+#info1 .titulos1 {
+	font-family: "Comic Sans MS", cursive;
+}
+#info1 .titulos1 {
+	font-family: Trebuchet MS, Arial, Helvetica, sans-serif;
+}
+#contenidogeneral #formulario {
+	float: right;
+	width: 100%;
+}
+#contenidogeneral #formulario p img {
+	float: left;
+	width: 40%;
+	margin-right: 5%;
+}
+#contenidogeneral #formulario img {
+	width: 20%;
+	margin-right: 5%;
+	margin-bottom: 10px;
+}
+#contenidogeneral #formulario p strong {
+	font-size: 36px;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+#contenidogeneral #formulario p {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
